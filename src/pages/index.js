@@ -12,7 +12,7 @@ const IndexPage = () => {
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="../images/79745099_10217589843752055_2361073977947848704_n.jpg"
       />
-      <a href='https://imwa-project.netlify.app/' target='_blank'>Inventory Management Web Application</a>
+      <a href='https://imwa-project-app-2gyjc.ondigitalocean.app' target='_blank'>Inventory Management Web Application</a>
     </Layout>
 
   )
