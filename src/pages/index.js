@@ -2,6 +2,7 @@ import * as React from 'react'
 import Layout from '../components/layout'
 import { StaticImage } from 'gatsby-plugin-image'
 import Seo from '../components/seo'
+import { Link } from 'gatsby'
 
 const IndexPage = () => {
   return (
@@ -11,6 +12,7 @@ const IndexPage = () => {
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="../images/79745099_10217589843752055_2361073977947848704_n.jpg"
       />
+      <a href='jamesonimwa.netlify.app' target='_blank' rel='noopener noreferrer'>Inventory Management Web Application</a>
     </Layout>
 
   )
